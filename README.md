@@ -4,6 +4,8 @@ Git is really cool! I especially like how Github helps keep my
 repository hosted and makes life easier for writing code by using
 snapshots and the like. 
 
+
+i'm make a second change here to commit back to remote repo
 ## Authors
 - Vincent Z. 
 
