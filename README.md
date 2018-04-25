@@ -6,7 +6,9 @@ snapshots and the like.
 
 
 i'm make a second change here to commit back to remote repo
+third change
 ## Authors
+
 this is a third change
 - Vincent Z. 
 
